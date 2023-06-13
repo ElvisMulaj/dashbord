@@ -118,3 +118,68 @@ export  const userRows = [
 },
  
 ];
+
+
+
+
+
+
+
+
+export  const productRows = [
+  { id: 1, name: 'Movie', img:
+ "https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+ stock: 123,
+    status:"active",
+    price:"$120"
+},
+{ id: 2,  name: 'Movie', img:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   stock: 123,
+   status:"active",
+   price:"$120"
+},
+{ id: 3,  name: 'Movie', img:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+stock: 123,
+   status:"active",
+   price:"$120"
+},
+{ id: 4, name: 'Movie', img:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+stock: 123,
+   status:"active",
+   price:"$120"
+},
+{ id: 5, name: 'Movie', img:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+stock: 123,
+   status:"active",
+   price:"$120"
+},
+{ id: 6, name: 'Movie', img:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+stock: 123,
+   status:"active",
+   price:"$120"
+},
+{ id: 7, name: 'Movie', img:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+stock: 123,
+   status:"active",
+   price:"$120"
+},
+{ id: 8, name: 'Movie', img:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+stock: 123,
+   status:"active",
+   price:"$120"
+},
+{ id: 9, name: 'Movie', img:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+stock: 123,
+   status:"active",
+   price:"$120"
+},
+ 
+];
