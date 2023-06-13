@@ -27,7 +27,7 @@ export default function Sidebar() {
             <div className="siderbarMenu">
                 <h3 className='sidebarTitle'>Dashbord</h3>
                 <ul className="siderbarList">
-                    <li className="sidebarListItem active">
+                    <li className="sidebarListItem ">
                         <PermIdentity className='sidebarIcon'/>
                        Users
                     </li>
@@ -35,7 +35,7 @@ export default function Sidebar() {
                         <Storefront className= 'sidebarIcon'/>
                         Products
                     </li>
-                    <li className="sidebarListItem active">
+                    <li className="sidebarListItem ">
                         <AttachMoneyOutlined className='sidebarIcon'/>
                         Transactions
                     </li>
@@ -48,7 +48,7 @@ export default function Sidebar() {
             <div className="siderbarMenu">
                 <h3 className='sidebarTitle'>Quick Menu</h3>
                 <ul className="siderbarList">
-                    <li className="sidebarListItem active">
+                    <li className="sidebarListItem">
                         <MailOutline className='sidebarIcon'/>
                         Mail
                     </li>
@@ -65,7 +65,7 @@ export default function Sidebar() {
             <div className="siderbarMenu">
                 <h3 className='sidebarTitle'>Notification</h3>
                 <ul className="siderbarList">
-                    <li className="sidebarListItem active">
+                    <li className="sidebarListItem ">
                         <WorkOutline className='sidebarIcon'/>
                         Manage
                     </li>

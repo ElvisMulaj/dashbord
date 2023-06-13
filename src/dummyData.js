@@ -60,3 +60,61 @@ export const userdata = [
       
     },
 ];
+
+export  const userRows = [
+  { id: 1, username: 'Jon Snow', avatar:
+ "https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    email:"jogn@gmail.com",
+    status:"active",
+    transaction:"$120"
+},
+{ id: 2, username: 'Jon Snow', avatar:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   email:"jogn@gmail.com",
+   status:"active",
+   transaction:"$120"
+},
+{ id: 3, username: 'Jon Snow', avatar:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   email:"jogn@gmail.com",
+   status:"active",
+   transaction:"$120"
+},
+{ id: 4, username: 'Jon Snow', avatar:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   email:"jogn@gmail.com",
+   status:"active",
+   transaction:"$120"
+},
+{ id: 5, username: 'Jon Snow', avatar:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   email:"jogn@gmail.com",
+   status:"active",
+   transaction:"$120"
+},
+{ id: 6, username: 'Jon Snow', avatar:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   email:"jogn@gmail.com",
+   status:"active",
+   transaction:"$120"
+},
+{ id: 7, username: 'Jon Snow', avatar:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   email:"jogn@gmail.com",
+   status:"active",
+   transaction:"$120"
+},
+{ id: 8, username: 'Jon Snow', avatar:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   email:"jogn@gmail.com",
+   status:"active",
+   transaction:"$120"
+},
+{ id: 9, username: 'Jon Snow', avatar:
+"https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   email:"jogn@gmail.com",
+   status:"active",
+   transaction:"$120"
+},
+ 
+];
