@@ -61,6 +61,24 @@ export const userdata = [
     },
 ];
 
+export const productData = [
+   {
+     name: 'january',
+     "Sales": 4000,
+    
+   },
+   {
+     name: 'February',
+     "Sales": 3000,
+    
+   },
+   {
+     name: 'Mars',
+     "Sales": 2000,
+   },
+
+]
+
 export  const userRows = [
   { id: 1, username: 'Jon Snow', avatar:
  "https://images.pexels.com/photos/16628785/pexels-photo-16628785/free-photo-of-fashion-love-woman-dark.jpeg?auto=compress&cs=tinysrgb&w=1600",
